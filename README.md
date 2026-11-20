@@ -1,5 +1,9 @@
 # The Day in One Picture
 
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/dekary983/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/dekary983/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
 A single-file, procedural broadsheet front page covering the requested news edition dated **Thursday, 19 November 2026**. The page puts the International Court of Justice ruling on Myanmar and the Rohingya at the top, with five compact world-news briefs beneath it and an “Also today” ticker along the foot.
 
 ## Stories
